@@ -1,0 +1,2 @@
+*.json
+.flomo_credentials.env
